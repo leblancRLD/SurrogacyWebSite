@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+      
+body{
+      font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+
+span{
+    color: purple;
+}
+.modificami{
+    font-size: x-large;
+}
+.featuring{
+    background-color: bisque;
+}
+.bros{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.bros1{
+    border-bottom: 2px solid black;
+}
+.modifyme{
+    list-style-type: none;
+    margin: 10px;
+}
+.features2{
+    background-color: lightblue;
+}
+.shes{
+    height: 300px;
+    object-fit: cover;
+}
+/* .margin{
+    border-bottom: 1px solid bisque;
+    border-top: 1px solid bisque;
+    
+} */
